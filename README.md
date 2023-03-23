@@ -14,3 +14,32 @@ case study, your decision trees will properly implement the supervised learning 
 - Model evaluation
 - Restricting the maximum depth of the tree
 - Using random forest to increase predictive accuracy and control overfitting
+
+## 1. Sourcing and loading
+
+Import packages
+Load data
+Explore the data
+
+## 2. Cleaning, transforming and visualizing
+
+- Cleaning the data
+- Train/test split
+
+## 3. Modelling
+
+Model 1: Entropy model - no max_depth
+Model 2: Gini impurity model - no max_depth
+Model 3: Entropy model - max depth 3
+Model 4: Gini impurity model - max depth 3
+
+## 4. Evaluating and concluding
+
+- How many customers will buy Hidden Farm coffee?
+- Decision
+
+## 5. Random Forest
+
+- Import necessary modules
+- Model
+- Revise conclusion
