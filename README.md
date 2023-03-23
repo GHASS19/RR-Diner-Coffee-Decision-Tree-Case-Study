@@ -28,10 +28,10 @@ Explore the data
 
 ## 3. Modelling
 
-Model 1: Entropy model - no max_depth
-Model 2: Gini impurity model - no max_depth
-Model 3: Entropy model - max depth 3
-Model 4: Gini impurity model - max depth 3
+- Model 1: Entropy model - no max_depth
+- Model 2: Gini impurity model - no max_depth
+- Model 3: Entropy model - max depth 3
+- Model 4: Gini impurity model - max depth 3
 
 ## 4. Evaluating and concluding
 
