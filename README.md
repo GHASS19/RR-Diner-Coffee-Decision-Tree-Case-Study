@@ -59,7 +59,7 @@ Only 69.23 % would potentially buy the Hiddden Farm coffee by our gini model wit
 
 ## - Decision
 
-It is very close to our requirement. I would say yes but we should do another model to insure this is predicting customer behavior correctly. Now we will run a random forrest model which uses lots of trees with similar properties to predict. They are great at combating over-fitting.
+The prediction is very close to our requirement. I would say yes but we should do another model to insure this is predicting customer behavior correctly. Now we will run a random forrest model which uses lots of trees with similar properties to predict. They are great at combating over-fitting.
 
 ## 5. Random Forest
 
