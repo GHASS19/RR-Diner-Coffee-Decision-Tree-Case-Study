@@ -38,7 +38,7 @@ Divide the NOPrediction subset into X and y, and then further divide those subse
 
 Create dummy variables to deal with categorical inputs
 
-- Visualize the data
+## - Visualize the data
 
 ![image](https://user-images.githubusercontent.com/86930309/227389110-e3312092-4a90-4e66-9930-8273332e0fca.png)
 
@@ -58,6 +58,8 @@ There is a wide range of customers that spent money last week on the coffee and 
 Only 69.23 % would potentially buy the Hiddden Farm coffee by our gini model with a max depth of 3.
 
 ## - Decision
+
+It is very close to our requirement. I would say yes but we should do another model to insure this is predicting customer behavior correctly. Now we will run a random forrest model which uses lots of trees with similar properties to predict. They are great at combating over-fitting.
 
 ## 5. Random Forest
 
