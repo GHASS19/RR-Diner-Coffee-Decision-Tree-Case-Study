@@ -38,7 +38,7 @@ Divide the NOPrediction subset into X and y, and then further divide those subse
 
 Create dummy variables to deal with categorical inputs
 
-Visualize the data
+- Visualize the data
 
 ![image](https://user-images.githubusercontent.com/86930309/227389110-e3312092-4a90-4e66-9930-8273332e0fca.png)
 
