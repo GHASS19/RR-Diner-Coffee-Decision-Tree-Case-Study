@@ -54,12 +54,18 @@ There is a wide range of customers that spent money last week on the coffee and 
 ## 4. Evaluating and concluding
 
 - How many customers will buy Hidden Farm coffee?
+
+Only 69.23 % would potentially buy the Hiddden Farm coffee by our gini model with a max depth of 3.
+
 - Decision
 
 ## 5. Random Forest
 
 - Import necessary modules
 - Model
+
+The RF model predicts a higher rate of potenital customers that will buy the hidden coffee of 82.89%.
+
 - Revise conclusion
 
 The random forest is the best model. Its accuracy score is relevent compared to the others and predicts that more customers would potiental purchase the Hidden Farm coffee. Given that the other model predicted that 69.23% would purchase the coffee and the random forest model predicted 82.89%, I would recommend that they go ahead and create a contract with Hidden Farms to produce the coffee.
