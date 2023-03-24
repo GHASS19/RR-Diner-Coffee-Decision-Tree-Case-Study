@@ -28,17 +28,17 @@ Explore the data
 
 To execute the train/test split properly, we need to do five things:
 
-a. Drop all rows with a null value in the Decision column, and save the result as NOPrediction: a dataset that will contain all known values for the decision
+- Drop all rows with a null value in the Decision column, and save the result as NOPrediction: a dataset that will contain all known values for the decision
 
-b. Visualize the data using scatter and boxplots of several variables in the y-axis and the decision on the x-axis
+- Visualize the data using scatter and boxplots of several variables in the y-axis and the decision on the x-axis
 
-c. Get the subset of coffeeData with null values in the Decision column, and save that subset as Prediction
+- Get the subset of coffeeData with null values in the Decision column, and save that subset as Prediction
 
-d. Divide the NOPrediction subset into X and y, and then further divide those subsets into train and test subsets for X and y respectively
+- Divide the NOPrediction subset into X and y, and then further divide those subsets into train and test subsets for X and y respectively
 
-e. Create dummy variables to deal with categorical inputs
+- Create dummy variables to deal with categorical inputs
 
-- Visualize the data
+- ## Visualize the data
 
 ![image](https://user-images.githubusercontent.com/86930309/227389110-e3312092-4a90-4e66-9930-8273332e0fca.png)
 
