@@ -17,14 +17,14 @@ case study, your decision trees will properly implement the supervised learning 
 
 ## 1. Sourcing and loading
 
-Import packages
-Load data
-Explore the data
+## - Import packages
+## - Load data
+## - Explore the data
 
 ## 2. Cleaning, transforming and visualizing
 
-- Cleaning the data
-- Train/test split
+## - Cleaning the data
+## - Train/test split
 
 To execute the train/test split properly, we need to do five things:
 
@@ -46,26 +46,26 @@ There is a wide range of customers that spent money last week on the coffee and 
 
 ## 3. Modelling
 
-- Model 1: Entropy model - no max_depth
-- Model 2: Gini impurity model - no max_depth
-- Model 3: Entropy model - max depth 3
-- Model 4: Gini impurity model - max depth 3
+## - Model 1: Entropy model - no max_depth
+## - Model 2: Gini impurity model - no max_depth
+## - Model 3: Entropy model - max depth 3
+## - Model 4: Gini impurity model - max depth 3
 
 ## 4. Evaluating and concluding
 
-- How many customers will buy Hidden Farm coffee?
+## - How many customers will buy Hidden Farm coffee?
 
 Only 69.23 % would potentially buy the Hiddden Farm coffee by our gini model with a max depth of 3.
 
-- Decision
+## - Decision
 
 ## 5. Random Forest
 
-- Import necessary modules
-- Model
+## - Import necessary modules
+## - Model
 
 The RF model predicts a higher rate of potenital customers that will buy the hidden coffee of 82.89%.
 
-- Revise conclusion
+## - Revise conclusion
 
 The random forest is the best model. Its accuracy score is relevent compared to the others and predicts that more customers would potiental purchase the Hidden Farm coffee. Given that the other model predicted that 69.23% would purchase the coffee and the random forest model predicted 82.89%, I would recommend that they go ahead and create a contract with Hidden Farms to produce the coffee.
