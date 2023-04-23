@@ -15,6 +15,14 @@ case study, your decision trees will properly implement the supervised learning 
 - Restricting the maximum depth of the tree
 - Using random forest to increase predictive accuracy and control overfitting
 
+RR Diner Coffee has a decision about whether to strike a deal with a legendary coffee farm (known as the Hidden Farm) in rural China: there are rumours their coffee tastes of lychee and dark chocolate, while also being as sweet as apple juice.
+
+It's a risky decision, as the deal will be expensive, and the coffee might not be bought by customers. The stakes are high: times are tough, stocks are low, farmers are reverting to old deals with the larger enterprises and the publicity of selling Hidden Farm coffee could save the RR Diner Coffee business.
+
+Your first job, then, is to build a decision tree to predict how many units of the Hidden Farm Chinese coffee will be purchased by RR Diner Coffee's most loyal customers.
+
+Your team has conducted a survey of 710 of the most loyal RR Diner Coffee customers, collecting data on the customers.
+
 ## 1. Sourcing and loading
 
 ## - Import packages
